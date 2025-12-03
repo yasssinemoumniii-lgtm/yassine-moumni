@@ -1,6 +1,6 @@
 # Hi, I am Yassine 👋
 
-👋 Salut ! Je suis **Yassine Moumni**, étudiant en **4ᵉ année Informatique – Data Science**.  
+👋 Salut ! Je suis **Yassine Moumni**, étudiant en **4ᵉ année  cycle ingénieur en Informatique – Data Science**.  
 Passionné par le Machine Learning, l’IA, l’analyse de données et la création de solutions intelligentes.  
 J’aime apprendre, construire et partager mes projets techniques.
 
